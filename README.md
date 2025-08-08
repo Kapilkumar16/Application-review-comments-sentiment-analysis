@@ -120,9 +120,4 @@ From a business perspective:
 
 ---
 
-## 🚀 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Kapilkumar16/Application-review-comments-sentiment-analysis.git
-   cd Application-review-comments-sentiment-analysis
